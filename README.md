@@ -1,6 +1,6 @@
 # Find-your-way-A-web-application-leveraging-Yelp-API-
 
-This assignment designs and implements a multitier server application using Servlets as well as Enterprise
+This project is a multitier server application using Servlets as well as Enterprise
 Java Beans (EJBs). The application developed helps a user to search for things to do anything like, by specifying
 his/her preferences including distance, location and best reviewed places. Yelp API is used to generate response
 and send to the servlet which in turn gives the results to the client or the user. 
