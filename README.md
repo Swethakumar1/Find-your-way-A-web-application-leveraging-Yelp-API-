@@ -11,4 +11,4 @@ This is open source jar for the OAuth used for accessing data in yelp happens vi
 online, I found the scribe jar being recommended by many developers for accessing APIs of LinkedIn,
 Facebook, yelp etc.
 org.Json.jar
-The response from yelp is JSON object. so I used this jar for parsing the Json data.
+The response from yelp is a JSON object leading to the choice of selecting this option for parsing the Json data.
